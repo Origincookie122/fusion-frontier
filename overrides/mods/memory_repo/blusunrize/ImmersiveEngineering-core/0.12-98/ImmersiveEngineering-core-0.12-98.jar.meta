@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Maven-Artifact: blusunrize:ImmersiveEngineering-core:0.12-98
+FMLCorePlugin: blusunrize.immersiveengineering.common.asm.IELoadingPlugin
